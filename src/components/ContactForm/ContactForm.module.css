@@ -1,0 +1,33 @@
+.form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.label {
+  margin-bottom: 2px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #3f51b5;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  padding: 10px;
+  width: 35%;
+  border: 1px solid rgba(65, 63, 63, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.input:last-child {
+  margin-bottom: 15px;
+}
+
+.input:focus {
+  outline-color: hsl(209, 77%, 68%);
+  background-color: #fff;
+}

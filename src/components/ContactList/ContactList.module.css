@@ -1,0 +1,41 @@
+.list {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 5px 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 4px;
+  width: 35%;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  color: #523939cc;
+  text-align: left;
+  font-weight: normal;
+  font-size: 15px;
+  width: 100%;
+  margin-right: 10px;
+}
+
+.message {
+  margin-bottom: 10px;
+  color: #cf0c8edb;
+  font-size: 13px;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+}

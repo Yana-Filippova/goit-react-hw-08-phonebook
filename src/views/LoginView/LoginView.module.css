@@ -1,0 +1,15 @@
+.form {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.field {
+  margin-bottom: 20px !important;
+  width: 100%;
+  background-color: #fff !important;
+}

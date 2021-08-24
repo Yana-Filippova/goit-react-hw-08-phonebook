@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.phone {
+  background-color: hsl(209, 77%, 68%);
+  margin-bottom: 13px;
+}
+
+.name {
+  margin-right: 20px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #fff;
+  text-transform: uppercase;
+}

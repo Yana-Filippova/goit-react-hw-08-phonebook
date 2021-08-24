@@ -1,0 +1,22 @@
+.label {
+  display: block;
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 35%;
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.input:focus {
+  outline-color: hsl(209, 77%, 68%);
+}
