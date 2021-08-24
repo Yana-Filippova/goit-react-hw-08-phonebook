@@ -49,7 +49,7 @@ export default function RegisterView() {
       <TextField
         label="Name"
         variant="outlined"
-        color="secondary"
+        color="primary"
         type="text"
         name="name"
         value={name}
@@ -60,7 +60,7 @@ export default function RegisterView() {
       <TextField
         label="Email"
         variant="outlined"
-        color="secondary"
+        color="primary"
         type="email"
         name="email"
         value={email}
@@ -71,7 +71,7 @@ export default function RegisterView() {
       <TextField
         label="Password"
         variant="outlined"
-        color="secondary"
+        color="primary"
         type="password"
         name="password"
         value={password}
