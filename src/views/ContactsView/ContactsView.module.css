@@ -7,3 +7,9 @@
   font-style: oblique;
   text-decoration: blink;
 }
+
+.filter {
+  composes: title;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
