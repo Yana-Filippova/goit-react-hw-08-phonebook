@@ -17,4 +17,4 @@
 - Добавь публичные и приватные маршруты.
 - Поработай над красивым оформлением интерфейса, можно использовать библиотеку
   компонентов, например [React Bootstrap](https://react-bootstrap.github.io/),
-  [Material-UI](https://material-ui.com/) и другие.
+  [Material-UI](https://material-ui.com/) и другие. 
